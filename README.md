@@ -46,7 +46,7 @@
 
 ## 📬 Contacto
 
-[![Email](https://img.shields.io/badge/Email-tu--email%40ito.mx-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@ito.mx)
+[![Email](https://img.shields.io/badge/Email-tu--email%40ito.mx-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tu-25161655@ito.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felabr21-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felabr21)
 [![GitHub](https://img.shields.io/badge/GitHub-felabr21-181717?style=flat&logo=github&logoColor=white)](https://github.com/felabr21)
 
